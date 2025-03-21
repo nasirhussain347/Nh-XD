@@ -3,8 +3,8 @@
 {
   "name": "nasir",
   "version": "2.0.1",
-  "description": "MALVIN-XD~E4IQjBDY#WO-xMhM9OEU_Vvo_3IeRdFZtJ90X18glDhESXrompdc",
-  "main": "index.js",
+  "description": "",
+  "main": "MALVIN-XD~E4IQjBDY#WO-xMhM9OEU_Vvo_3IeRdFZtJ90X18glDhESXrompdc",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name malvin",
     "stop": "pm2 stop malvin",
