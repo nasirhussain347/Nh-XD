@@ -4,11 +4,11 @@
   "name": "nasir",
   "version": "2.0.1",
   "description": "",
-  "main": "MALVIN-XD~E4IQjBDY#WO-xMhM9OEU_Vvo_3IeRdFZtJ90X18glDhESXrompdc",
+  "main": "",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name malvin",
     "stop": "pm2 stop malvin",
-    "restart": "pm2 restart malvin"
+    "restart": "MALVIN-XD~E4IQjBDY#WO-xMhM9OEU_Vvo_3IeRdFZtJ90X18glDhESXrompdc"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
